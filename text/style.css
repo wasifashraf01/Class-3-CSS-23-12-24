@@ -1,0 +1,14 @@
+@font-face{
+    src: url("./Acme-Regular.ttf");
+    font-family: abc;
+}
+
+h1 ,p{
+    font-family: abc;
+    text-transform: capitalize;
+    text-decoration: underline dotted red;
+    line-height: 50px;
+    /* letter-spacing: 100px;
+    word-spacing: 23px; */
+    text-align: justify;
+ }

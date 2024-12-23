@@ -1,0 +1,28 @@
+body{
+    background-color: #000;
+    color: aquamarine;
+}
+h1{
+    background-color: #fa7272;
+    color: darkgray;
+}
+h2{
+    background-color: #64fd7b;
+    color: rgba(246, 112, 172, 0.217);
+}
+h3{
+    background-color: #721111;
+    color: rgb(199, 234, 247);
+}
+h4{
+    background-color: #025c0b;
+    color: rgba(221, 204, 204, 0.237);
+}
+h5{
+    background-color: #a7c788;
+    color: rgb(249, 97, 155);
+}
+h6{
+    background-color: #bf0267;
+    color: hsl(261, 82%, 59%);
+}
